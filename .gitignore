@@ -2,3 +2,5 @@
 .git
 db.sqlite3
 manage.py
+dist
+django_polls.egg-info

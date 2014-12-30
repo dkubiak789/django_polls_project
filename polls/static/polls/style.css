@@ -1,0 +1,4 @@
+a { color: #333; text-decoration: none; }
+a:hover, li a:active { color: #999; }
+h1 { font-size: 1.8em; }
+body { background: white url("images/background.gif") no-repeat right bottom; }
